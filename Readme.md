@@ -1,4 +1,4 @@
-# Ablout this 
+# About this 
 
 These are the write up of b3f0re and offical to study,it will stay updated as our team stays
 
