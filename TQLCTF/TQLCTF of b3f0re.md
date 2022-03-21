@@ -1,8 +1,6 @@
 ![image-20220221210613235](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/image-20220221210613235.png)
 
-# 前言
-
-这周周末跟大哥们一起打了TQLCTF,题目跟大哥们真的TQL,完全打不动。fw只能摸MISC,脑王出的题真的看不懂,最后苟且摸进前十
+# TQLCTF
 
 # Web
 
