@@ -23,7 +23,7 @@ Connection: close
 curl -H "Authorization: Bearer eyJrIjoiWEhKRXI5YWFWVFFNWlRGTTFFNTZidk5ETnh3MVdvcWQiLCJuIjoiYWFhIiwiaWQiOjF9" http://124.71.184.1:3000/api/dashboards/home
 ```
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=YTQ5ZTM1YjcxMjlkNjQ3YmFmY2EzYTliYTRjMGYwOGNfOUZwdHVHZEVmMVREVU1qVFdXaGZaNXdacGVLZWlVWU5fVG9rZW46Ym94Y25Dajh0SnhkN3N3SWNrYkx2WmV4aTlmXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![image](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/image.png)
 
 链接上去，后台datasource,链接MySQL，flag在数据库里面
 
@@ -129,7 +129,7 @@ index.html
 
 image 的组成如下图所示：
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=MGM5OTlkMDk4MjhlODc5NGVmMWFlMjYyMDdmMjI4M2VfUlBIcjZKT1p1ckVRVk95Zkx1QjFtdlhwMVREZG95VW9fVG9rZW46Ym94Y25CT3dXQkFBVWt3ME51dEFHeVhkTW5jXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![33e46231-aaed-4be1-b08f-31006fa90aeb](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/33e46231-aaed-4be1-b08f-31006fa90aeb.png)
 
 inode 块从第二个块开始，往后 50 个，所以第一个数据块是从 51 * 0x1000 = 0x33000 开始的。它的 inode 和 block 位图都是用 calloc 申请的，没记录在 image 里。
 
@@ -146,11 +146,11 @@ struct inode {
 
 根据 plantflag 的行为，可以得知该函数拷贝了很多次 flag 内容到文件系统里
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDhjMWVlNWY1YmRiZmFiMmM0Yjc4YmI4ZWU5MDQ0NmZfaVp5ZmdJeEtrRlZWcGpvUXlUTldQaUZ6SjZZSW0ySUhfVG9rZW46Ym94Y25OYnIxYmswN2E3em5rODI5VjIxQjhjXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![6573ea6b-b81e-4695-87c1-f2800ed8eb71](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/6573ea6b-b81e-4695-87c1-f2800ed8eb71.png)
 
 但是只有当 copy_to_fs 的第三个参数为 1 时，所用的加密方式才是可逆的：
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=NDU2NTZjYzJlZjgwYTEzMTNmMDIzZDI4OTFkNDI5NmVfcWpPd1cwbURZdlZ6clNwdjFsS0ZaYjI0RzZBRlJnellfVG9rZW46Ym94Y254ZGZNRmRqMUVmbjdxVFdBSHZ6MmViXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![e3a2bd33-9c38-4b61-bc32-e8522e989a9c](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/e3a2bd33-9c38-4b61-bc32-e8522e989a9c.png)
 
 解题脚本：
 
@@ -830,20 +830,20 @@ if __name__ == '__main__':
 
 ## Today 
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=OTIyYzE1ZGYyYjE3ZjQ4MWUwYTI5ZGY2OGQwNDBlZTJfSThscFg2WVdpWmFyTEgySXJjUlBZV2xhd29PcGpKSEtfVG9rZW46Ym94Y25YcDB4TGREVllWSTlnbVdSb0I3V21nXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![3d304cb3-cb25-428c-b13c-3cfb21069111](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/3d304cb3-cb25-428c-b13c-3cfb21069111.png)
 
 根据题目意思猜测是社工,由描述可知anninefour loves machine learning and data science,根据此条件进行查找
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=MzhiMDAzNjdmNzZmOTJkZDRiMmViZTBlY2QxZWE2ZjVfUWI3U1NMSjhwakR4djJtTTd4UmlOM0diWlR5VU1rRmFfVG9rZW46Ym94Y25HSlBUN1pETVF1eXE4RDd6SDlUWk9iXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![a9a55ef1-2a6d-459a-a4c9-b541c308b5d6](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/a9a55ef1-2a6d-459a-a4c9-b541c308b5d6.png)
 
 最终在kaggle这一数据发掘和预测竞赛的在线平台发现该用户,发现在Bio中有一个用户名,在推特上发现该用户名并且信息与题目相符
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=NDczOTQ1NTlkODlkMzZlZTQzYzY3YTllMGRhNzFlNGNfUVJCZXBZT0tMY0xrdzl3QnlBTW01RWNaMjJNUGJsM29fVG9rZW46Ym94Y25jS2tlV0RNQlFXQWFTNEpTbjVBMDBlXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![2d78e52f-d10e-4e46-a14d-dbb82011b1cf](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/2d78e52f-d10e-4e46-a14d-dbb82011b1cf.png)
 
 通过超市名"夫果品生鲜超市"与复旦位于上海等信息搜索得到该小区为花山名苑
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=N2VjMjQ2MTViN2MwYTcxZTQzMmNjYTU5YmUzM2ZmZmFfallENXoyVGNiSGZCS0lJV2tjQlhJVEUyNzIxaTBCdTZfVG9rZW46Ym94Y241NWY4NnhETWNGYmtrUG5VdkRiV2VnXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![f6e5febf-6ea7-4bc9-9fe5-331cf0fd83b7](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/f6e5febf-6ea7-4bc9-9fe5-331cf0fd83b7.png)
 
 最终通过了无尽的搜索,最终在google地图的花山名苑的评论区发现了flag
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDQwMGFmZWJkNzc4OGJiNTFlYjQ3NmM4ZTczZjU1OWVfeDdOcEVTbUw3ME5zTk4wMzlHODVtMjNsZ1lYVUVTUW1fVG9rZW46Ym94Y25WSTR6dlZWclZBUG45UjIzenExMlhBXzE2NTAyMDkxMjA6MTY1MDIxMjcyMF9WNA)
+![634c2f77-7652-4830-b7f5-49cb3caf61e6](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/634c2f77-7652-4830-b7f5-49cb3caf61e6.png)
