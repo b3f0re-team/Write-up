@@ -1291,7 +1291,7 @@ if __name__ == '__main__':
 
 发现在发送/login时会短暂赋予user1权限,因此一直发/login使其处于user1状态时点login
 
-![img](https://rvu5pcz1il.feishu.cn/space/api/box/stream/download/asynccode/?code=YTc4NmJmYzhhODdlYzNjYWE3OWJjYzFhMDQyYjRkZjBfcUZHckRKWW5uQ1ROeHBTR25MT3g4bWhnYnR1ellyWnNfVG9rZW46Ym94Y25UQWdGVHJsWGVtUEUyeEJXY0VnRllDXzE2NTYzNzQ2NTc6MTY1NjM3ODI1N19WNA)
+![微信图片_20220628215741](https://cdn.jsdelivr.net/gh/whitegive111/photo/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220628215741.png)
 
 
 
