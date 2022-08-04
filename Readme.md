@@ -24,4 +24,8 @@ These are the write up of b3f0re and offical to study,it will stay updated as ou
 
 ### ACTF
 
- 2022-06-25 09:00:00——2022-06-27 09:00:00
+ 2022-06-25 09:00-2022-06-27 09:00
+
+### 强网杯
+
+2022-07-30 09:00 -07-31 17:00
